@@ -20,7 +20,7 @@ sections:
       **Cameron Highlands’ tea plantations**, and **Terengganu’s pristine
       islands**, along with iconic spots like the **Petronas Twin Towers** and
       **Langkawi’s beaches**. Discover hidden gems, savor world-famous street
-      food, and plan your perfect getaway with us!
+      food, and plan your perfect getaway with us.
     styles:
       self:
         height: auto
