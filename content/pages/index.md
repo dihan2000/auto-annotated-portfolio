@@ -43,7 +43,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: see other places
         url: /projects
     showDate: false
     showDescription: true
