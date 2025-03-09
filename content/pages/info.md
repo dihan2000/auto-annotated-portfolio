@@ -14,10 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey I’m a developer. I’ve been born and raised in Rangpur,Bangladesh and
+      currently i’m based in Malaysia . I’m currently a free agent. When I’m not
+      coding, writing or creating, I eat Briyani. 
 
     media:
       type: ImageBlock
