@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Batu Ferringhi Beach
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
