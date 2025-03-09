@@ -5,9 +5,15 @@ colors: colors-a
 date: '2025-03-09'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Kek Chuan Street in George Town, Penang, is a charming lane known for its
+  heritage buildings and vibrant architecture. The street features beautifully
+  restored Straits Eclectic-style shophouses, painted in bright pastel colors.
+  It is a popular spot for photography, with its mix of old-world charm and
+  modern touches. Kek Chuan Street is also home to trendy cafés, boutique
+  offices, and art galleries, attracting both locals and tourists. The area
+  showcases Penang’s rich Peranakan and Chinese heritage, blending tradition
+  with contemporary culture. A stroll along this picturesque street offers a
+  glimpse into George Town’s unique architectural beauty.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_8943.jpg
