@@ -16,7 +16,8 @@ sections:
     text: >+
       # Hey I’m a developer and my name is Dihan. I’ve been born and raised in
       Rangpur,Bangladesh and currently i’m based in Malaysia . I’m currently a
-      free agent. When I’m not coding, writing or creating, I eat Briyani.
+      free agent. When I’m not doing coding, writing or creating, on that time I
+      love to eat Briyani.
 
     media:
       type: ImageBlock
