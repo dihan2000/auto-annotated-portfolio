@@ -15,9 +15,22 @@ sections:
     backgroundSize: full
     title: Discover Malaysia – Your Ultimate Travel Guide
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome to Discover Malaysia, your gateway to exploring the breathtaking
+      beauty, rich culture, and diverse landscapes of Malaysia. Whether you’re
+      looking for pristine beaches, lush rainforests, historical landmarks, or
+      vibrant cityscapes, we bring you the best of Malaysia’s top
+      destinations.From the iconic Petronas Twin Towers in Kuala Lumpur to the
+      crystal-clear waters of Langkawi, the charming heritage streets of George
+      Town, and the adventure-packed Borneo rainforests, Malaysia has something
+      for every traveler. Dive into our curated travel guides, tour packages,
+      and local experiences, designed to help you discover hidden gems and
+      must-visit attractions.Looking for food adventures? Malaysia’s
+      world-famous street food awaits, with flavors influenced by Malay,
+      Chinese, and Indian cultures. Want an adrenaline rush? Try thrilling
+      activities like island hopping, jungle trekking, and scuba diving in some
+      of Asia’s most stunning natural wonders.Plan your perfect Malaysian
+      getaway with Discover Malaysia—your trusted travel companion for
+      unforgettable journeys!
     styles:
       self:
         height: auto
