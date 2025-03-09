@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Chinatown, Penang'
 colors: colors-a
 date: '2025-03-09'
-client: Awesome client
+client: Photo by Dihan
 description: >-
   Kek Chuan Street in George Town, Penang, is a charming lane known for its
   heritage buildings and vibrant architecture. The street features beautifully
