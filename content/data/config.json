@@ -39,14 +39,6 @@
                 "url": "https://www.facebook.com/share/1AGZve78un/?mibextid=wwXIfr",
                 "icon": "facebook",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "https://www.facebook.com/share/1AGZve78un/?mibextid=wwXIfr",
-                "icon": "facebook",
-                "elementId": ""
             }
         ],
         "styles": {
