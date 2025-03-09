@@ -5,9 +5,14 @@ colors: colors-a
 date: '2025-03-09'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Batu Ferringhi Beach in Penang is a stunning coastal destination known for its
+  golden sands and clear waters. It offers a variety of water sports, including
+  jet skiing, parasailing, and banana boat rides. The beach is lined with luxury
+  resorts, beachside cafés, and seafood restaurants. At night, the Batu
+  Ferringhi Night Market comes alive with local crafts, souvenirs, and street
+  food. Visitors can enjoy breathtaking sunsets and a relaxing tropical
+  atmosphere. Whether for adventure or leisure, Batu Ferringhi is a must-visit
+  beach in Penang.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_8751.jpg
