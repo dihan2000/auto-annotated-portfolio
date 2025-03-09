@@ -57,14 +57,14 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "dihanmahi321@gmail.com",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Contact",
+                "url": "dihanmahi321@gmail.com",
                 "altText": ""
             },
             {
