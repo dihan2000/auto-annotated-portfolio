@@ -14,14 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey I’m a developer and my name is Dihan. I’ve been born and raised in
+      Rangpur,Bangladesh and currently i’m based in Malaysia . I’m currently a
+      free agent. When I’m not coding, writing or creating, I eat Briyani.
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/E294598C-33BA-4AD4-9DFD-F666B60B2D4D.JPG
       altText: Hero image
     styles:
       self:
@@ -210,8 +209,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      <dihanmahi321@gmail.com>
+
   - type: DividerSection
     styles:
       self:
