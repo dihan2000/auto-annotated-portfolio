@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in Rangpur,Bangladesh and
-      currently i’m based in Malaysia . I’m currently a free agent. When I’m not
-      coding, writing or creating, I eat Briyani. 
+      # Hey I’m a developer and my name is Dihan. I’ve been born and raised in
+      Rangpur,Bangladesh and currently i’m based in Malaysia . I’m currently a
+      free agent. When I’m not coding, writing or creating, I eat Briyani.
 
     media:
       type: ImageBlock
