@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Esplanade, Gorgetown, Penang'
 colors: colors-a
 date: '2025-03-09'
-client: Awesome client
+client: Photo by Dihan
 description: >-
   Esplanade, located in George Town, Penang, is a scenic waterfront promenade
   offering stunning sea views. It is home to historical landmarks like Fort
