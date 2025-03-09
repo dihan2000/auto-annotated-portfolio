@@ -75,7 +75,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Places
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
