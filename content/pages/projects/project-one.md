@@ -5,15 +5,10 @@ colors: colors-a
 date: '2025-03-09'
 client: Photo by Dihan
 description: >-
-  Kek Chuan Street in George Town, Penang, is a charming lane known for its
-  heritage buildings and vibrant architecture. The street features beautifully
-  restored Straits Eclectic-style shophouses, painted in bright pastel colors.
-  It is a popular spot for photography, with its mix of old-world charm and
-  modern touches. Kek Chuan Street is also home to trendy cafés, boutique
-  offices, and art galleries, attracting both locals and tourists. The area
-  showcases Penang’s rich Peranakan and Chinese heritage, blending tradition
-  with contemporary culture. A stroll along this picturesque street offers a
-  glimpse into George Town’s unique architectural beauty.
+  Chinatown in Penang, located in George Town, is a vibrant district filled with
+  heritage buildings, temples, and traditional Chinese shops. Visitors can
+  explore historic clan houses, savor authentic Chinese cuisine, and experience
+  the rich cultural heritage of the Chinese community.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_8943.jpg
