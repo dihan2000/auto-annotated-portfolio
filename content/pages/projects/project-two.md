@@ -5,13 +5,10 @@ colors: colors-a
 date: '2025-03-09'
 client: Photo by Dihan
 description: >-
-  Esplanade, located in George Town, Penang, is a scenic waterfront promenade
-  offering stunning sea views. It is home to historical landmarks like Fort
-  Cornwallis and the City Hall. Visitors can enjoy leisurely walks, cultural
-  events, and local street food. The Esplanade is a great spot to witness
-  Penang's colonial charm and heritage. The nearby Padang Kota Lama field is
-  perfect for picnics and gatherings. Sunset views from the Esplanade make it a
-  must-visit attraction for tourists.
+  Esplanade in George Town, Penang, is a scenic waterfront promenade offering
+  stunning sea views, colonial-era architecture, and a glimpse into the island's
+  rich history. It’s a great spot to relax, enjoy street food, and witness local
+  events or festivals.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_9010.jpg
