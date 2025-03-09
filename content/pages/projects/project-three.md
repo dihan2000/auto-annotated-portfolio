@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Batu Ferringhi Beach
 colors: colors-a
-date: '2025-03-22'
+date: '2025-03-09'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
