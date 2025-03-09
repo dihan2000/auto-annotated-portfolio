@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Batu Ferringhi Beach
 colors: colors-a
 date: '2025-03-09'
-client: Awesome client
+client: Photo by Dihan
 description: >-
   Batu Ferringhi Beach in Penang is a stunning coastal destination known for its
   golden sands and clear waters. It offers a variety of water sports, including
