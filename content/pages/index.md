@@ -16,11 +16,11 @@ sections:
     title: Discover Malaysia – Your Ultimate Travel Guide
     subtitle: >-
       Welcome to **Discover Malaysia**, your gateway to stunning landscapes,
-      rich culture, and vibrant cities. Explore **Penang’s heritage streets**,
-      **Cameron Highlands’ tea plantations**, and **Terengganu’s pristine
-      islands**, along with iconic spots like the **Petronas Twin Towers** and
-      **Langkawi’s beaches**. Discover hidden gems, savor world-famous street
-      food, and plan your perfect getaway with us.
+      rich culture, and vibrant cities. Explore *Penang’s heritage streets*,
+      *Cameron Highlands’ tea plantations*, and *Terengganu’s pristine islands*,
+      along with iconic spots like the *Petronas Twin Towers* and *Langkawi’s
+      beaches*. Discover hidden gems, savor world-famous street food, and plan
+      your perfect getaway with us.
     styles:
       self:
         height: auto
