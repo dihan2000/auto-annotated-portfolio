@@ -37,7 +37,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
-        borderColor: border-(--theme-dark)
+        borderColor: border-(--theme-primary)
     type: HeroSection
     actions: []
   - colors: colors-f
